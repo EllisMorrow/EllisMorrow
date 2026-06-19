@@ -27,22 +27,27 @@
 ### 📦 Open Source Footprint
 
 <p align="left">
-  <a href="https://github.com/msjsc001/QuickKV">
-    <img src="https://img.shields.io/github/languages/code-size/msjsc001/QuickKV?style=flat-square&label=QuickKV&color=007ec6" alt="QuickKV" />
-  </a>
-  <a href="https://github.com/msjsc001/KV-Tree">
-    <img src="https://img.shields.io/github/languages/code-size/msjsc001/KV-Tree?style=flat-square&label=KV-Tree&color=4c1" alt="KV-Tree" />
-  </a>
-  <a href="https://github.com/msjsc001/Anki-TTS-Edge">
-    <img src="https://img.shields.io/github/languages/code-size/msjsc001/Anki-TTS-Edge?style=flat-square&label=Anki-TTS-Edge&color=orange" alt="Anki-TTS-Edge" />
-  </a>
   <a href="https://github.com/msjsc001/OmniClip-RAG">
     <img src="https://img.shields.io/github/languages/code-size/msjsc001/OmniClip-RAG?style=flat-square&label=OmniClip-RAG&color=yellowgreen" alt="OmniClip-RAG" />
   </a>
+
+  <a href="https://github.com/msjsc001/QuickKV">
+    <img src="https://img.shields.io/github/languages/code-size/msjsc001/QuickKV?style=flat-square&label=QuickKV&color=007ec6" alt="QuickKV" />
+  </a>
+
+  <a href="https://github.com/msjsc001/KV-Tree">
+    <img src="https://img.shields.io/github/languages/code-size/msjsc001/KV-Tree?style=flat-square&label=KV-Tree&color=4c1" alt="KV-Tree" />
+  </a>
+
+  <a href="https://github.com/msjsc001/Anki-TTS-Edge">
+    <img src="https://img.shields.io/github/languages/code-size/msjsc001/Anki-TTS-Edge?style=flat-square&label=Anki-TTS-Edge&color=orange" alt="Anki-TTS-Edge" />
+  </a>
+
+  <a href="https://github.com/msjsc001/obsidian-block-reference-enhancer">
+    <img src="https://img.shields.io/github/languages/code-size/msjsc001/obsidian-block-reference-enhancer?style=flat-square&label=obsidian-block-reference-enhancer&color=3178c6" alt="obsidian-block-reference-enhancer" />
+  </a>
+
   <a href="https://github.com/msjsc001/EvoNote">
     <img src="https://img.shields.io/github/languages/code-size/msjsc001/EvoNote?style=flat-square&label=EvoNote&color=purple" alt="EvoNote" />
-  </a>
-  <a href="https://github.com/msjsc001/logseq-property-viewer">
-    <img src="https://img.shields.io/github/languages/code-size/msjsc001/logseq-property-viewer?style=flat-square&label=logseq-property-viewer&color=cyan" alt="logseq-property-viewer" />
   </a>
 </p>

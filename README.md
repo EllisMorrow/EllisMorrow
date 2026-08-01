@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EllisMorrow/OmniClip-RAG">
-    <img src="https://img.shields.io/badge/OmniClip%20RAG-425466?style=flat-square&logo=github&logoColor=white" alt="OmniClip RAG" />
+  <a href="https://github.com/EllisMorrow/Caelune">
+    <img src="https://img.shields.io/badge/Caelune%20-425466?style=flat-square&logo=github&logoColor=white" alt="Caelune" />
   </a>
   <a href="https://github.com/EllisMorrow/obsidian-block-reference-enhancer">
     <img src="https://img.shields.io/badge/Block%20Reference%20Enhancer-425466?style=flat-square&logo=obsidian&logoColor=white" alt="Block Reference Enhancer" />

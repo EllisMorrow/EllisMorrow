@@ -1,3 +1,6 @@
+
+<img alt="图片" src="https://github.com/user-attachments/assets/726c502e-fe5c-4292-a8cc-585ea8758824" />
+
 <p align="center">
   <em>Human Agency · Long Horizons · Loose Coupling · Modularity · Clarity · Continuity</em>
 </p>

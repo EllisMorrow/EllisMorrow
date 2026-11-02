@@ -1,5 +1,6 @@
 
-<img alt="开放的秩序" src="https://github.com/user-attachments/assets/edf64464-2631-4230-94c3-67d28ff496ae" />
+<img alt="开放的秩序" src="https://github.com/user-attachments/assets/07b6780a-70a5-4a51-ab05-66fe9d96eea1" />
+
 
 <p align="center">
   <em>Human Agency · Long Horizons · Loose Coupling · Modularity · Clarity · Continuity</em>
